@@ -1,0 +1,11 @@
+Estado,Idade,Salario,Compareceu
+RJ,44,72000,n
+SP,27,48000,s
+RJ,30,54000,n
+PB,38,61000,n
+AM,40,,s
+MG,35,58000,s
+MG,,52000,n
+MG,48,79000,y
+SP,50,83000,n
+PE,37,67000,y
